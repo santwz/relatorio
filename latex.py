@@ -39,7 +39,7 @@ Este relatório apresenta uma análise do papel \textbf{{{ticker[:ticker.find('.
 \end{{figure}}
 
 \section{{Análise de Risco e Retorno}}
-O retorno médio da ação nos últimos 5 dias úteis foi de {retorno_medio:.2f}\%, enquanto o risco foi de {risco:.2f}\%.
+O retorno médio da ação nos últimos 6 dias úteis foi de {retorno_medio:.2f}\%, enquanto o risco foi de {risco:.2f}\%.
 
 \section{{Análise fundamentalista}}\
 
