@@ -40,14 +40,14 @@ Este projeto, que ainda está em desenvolvimento, visa gerar um relatório autom
 
 ## Uso
 
-1. Edite o arquivo `analise.py` para especificar o ticker da ação desejada:
+1. Edite o arquivo `latex.py` para especificar o ticker da ação desejada:
     ```python
     ticker = "ITUB4.SA"  # Código da ação a ser analisada
     ```
 
 2. Execute o script:
     ```bash
-    python analise.py
+    python latex.py
     ```
 
 3. O relatório em formato PDF será gerado no diretório atual com o nome `relatorio.pdf`.
