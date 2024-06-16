@@ -11,7 +11,7 @@ Este projeto, que ainda está em desenvolvimento, visa gerar um relatório autom
 1. **Obtenção de Dados Históricos**: Utiliza a biblioteca `yfinance` para baixar os dados históricos de uma ação especificada.
 2. **Cálculo de Risco e Retorno**: Calcula o risco (desvio padrão dos retornos) e o retorno médio da ação nos últimos 5 dias úteis.
 3. **Dados Fundamentalistas**: Obtém dados fundamentalistas como P/L (Preço sobre Lucro) e ROE (Retorno sobre Patrimônio Líquido) da empresa utilizando a biblioteca `fundamentus`.
-4. **Geração de Gráfico**: Cria um gráfico do preço de fechamento ajustado da ação nos últimos 5 dias úteis.
+4. **Geração de Gráfico**: Cria um gráfico do preço de fechamento ajustado da ação nos últimos 6 dias úteis.
 5. **Geração de Relatório LaTeX**: Gera um relatório em formato LaTeX contendo todas as análises realizadas, incluindo o gráfico gerado.
 
 ## Pré-requisitos
