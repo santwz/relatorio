@@ -13,7 +13,7 @@ def obter_dados(ticker):
     # Cria um calendário de feriados no Brasil
     br_holidays = holidays.Brazil()
 
-    # Calcula a data de início considerando 5 dias úteis 
+    # Calcula a data de início considerando 6 dias úteis 
     data_hoje = datetime.today()
     dias_uteis = 0
     while dias_uteis < 6:
