@@ -98,6 +98,9 @@ Gera um gráfico do preço de fechamento ajustado da ação e salva como PNG.
 
 ## Considerações futuras
 
-Refinar as análises, adicionar matriz de correlação, ver como a ação se comporta em relação ao IBOV.
+1. Refinar as análises
+2. Adicionar matriz de correlação
+3. Comparar com a performance do IBOV e S&P 500
+4. Integrar o envio automático do relatório por email
 
 Sinta-se à vontade para contribuir ou abrir issues para melhorias e correções.
